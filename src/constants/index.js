@@ -116,55 +116,27 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: " Software Developer, Sound Engineer",
+      company_name: "Electrum Interactive",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Dec 2023 - Feb 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed 2D educational games in Unity to teach C programming concepts, improving student engagement with gamified learning",
+        "Utilized Scrum methodology for iterative game design and development cycles, ensuring timely delivery of project milestones",
+        "Composed and integrated original soundtracks, enhancing user experience with tension and excitement during gameplay"
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: " Software Developer, Sound Engineer",
+      company_name: "SRM University",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: " Nov 2023 - Feb 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Captured locomotion data using machine learning (ML) models and integrated them into Unity for motion-based interaction in games",
+        "Developed games to provide motion therapy for individuals aged 60-80, promoting physical rehabilitation through gameplay",
+        "Implemented ML models for seamless interaction between user locomotion and game mechanics"
       ],
     },
   ];
