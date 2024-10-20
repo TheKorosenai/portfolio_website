@@ -1,4 +1,9 @@
 import {
+    sql,
+    unity,
+    cpp,
+    c,
+    csharp,
     mobile,
     backend,
     creator,
@@ -23,6 +28,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    unrealengine,
   } from "../assets";
   
   export const navLinks = [
@@ -61,6 +67,18 @@ import {
   
   const technologies = [
     {
+      name: "C++",
+      icon: cpp,
+    },
+    {
+      name: "C",
+      icon: c,
+    },
+    {
+      name: "C#",
+      icon: csharp,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -73,16 +91,8 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
@@ -97,6 +107,10 @@ import {
       icon: mongodb,
     },
     {
+      name: "SQL",
+      icon: sql,
+    },
+    {
       name: "Three JS",
       icon: threejs,
     },
@@ -105,12 +119,12 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Unreal Engine",
+      icon: unrealengine,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "Unity",
+      icon: unity,
     },
   ];
   
