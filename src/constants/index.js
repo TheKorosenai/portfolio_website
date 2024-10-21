@@ -118,14 +118,6 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "Unreal Engine",
-      icon: unrealengine,
-    },
-    {
-      name: "Unity",
-      icon: unity,
-    },
   ];
   
   const experiences = [
